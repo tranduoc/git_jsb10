@@ -11,6 +11,10 @@
 - git pull: kéo code từ server về client
 - git merge <ten branch>: trộn code lại
 
+link study git 
+- https://git-scm.com/doc
+https://www.youtube.com/watch?v=n5Gq54h0G9w&list=PLE1qPKuGSJaCGalY_6vhlswzLnTufdWIV&index=9&frags=pl%2Cwn
+
 
 Admin@LAPTOP-3P9KPINT MINGW64 /d/study/project_front_end_2020/2000$amonth
 $ ls
